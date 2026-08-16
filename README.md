@@ -34,4 +34,4 @@ The goal of this repository is to:
 
 I hope you find these notes useful and that they help you throughout your own **CPTS journey**. Good luck! 🚀
 
-> **Disclaimer:** These notes are based on my personal experience and understanding. They are not intended to replace the official Hack The Box Academy content or the CPTS exam preparation material.
+> **Disclaimer:** These notes are based on my personal experience and understanding And not All the Modules will be published. However They are not intended to replace the official Hack The Box Academy content or the CPTS exam preparation material.
